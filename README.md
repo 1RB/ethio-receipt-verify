@@ -31,7 +31,7 @@ They are public URLs that return the official receipt as PDF, HTML, or JSON.
 ## Install
 
 ```bash
-pip install ethio-receipt-verify
+pip install git+https://github.com/1RB/ethio-receipt-verify.git
 ```
 
 Or from source:
