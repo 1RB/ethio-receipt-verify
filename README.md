@@ -4,6 +4,8 @@ Free, open-source Ethiopian bank and mobile-wallet receipt verification.
 
 Why pay for a wrapper when the banks already publish the receipts publicly?
 
+**Live site:** [cheki](https://cheki-pi.vercel.app) — web UI powered by this library.
+
 ## What this is
 
 This repo reverse-engineers the public receipt endpoints used by paid
